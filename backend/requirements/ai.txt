@@ -1,0 +1,22 @@
+# AI/ML dependencies
+-r base.txt
+
+# Machine Learning
+numpy==1.26.2
+pandas==2.1.3
+scikit-learn==1.3.2
+
+# Deep Learning (optional)
+# torch==2.1.0
+# transformers==4.35.0
+
+# NLP
+nltk==3.8.1
+spacy==3.7.2
+
+# OpenAI (if using)
+openai==1.3.5
+
+# Vector databases (optional)
+# chromadb==0.4.15
+# pinecone-client==2.2.4
